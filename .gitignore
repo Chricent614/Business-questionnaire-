@@ -1,0 +1,15 @@
+# dependencies
+node_modules/
+node_modules
+
+# local database
+data/*.db
+data/*.db-shm
+data/*.db-wal
+
+# secrets
+.env
+
+# misc
+*.log
+.DS_Store
